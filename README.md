@@ -1,0 +1,4 @@
+sequenceClassifier
+==================
+
+Classifies genomic sequences
